@@ -1,0 +1,14 @@
+{
+  "name": "node-webkit-sqlite",
+  "version": "1.0.0",
+  "main": "index.html",
+  "dependencies": {
+    "co": "^4.0.1",
+    "sequelize": "^2.0.0-rc3",
+    "sqlite3": "^3.0.4"
+  },
+  "js-flags": "--harmony",
+  "scripts": {
+    "start": "~/Downloads/node-webkit-v0.11.2-osx-x64/node-webkit.app/Contents/MacOS/node-webkit ."
+  }
+}
